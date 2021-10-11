@@ -147,11 +147,11 @@ nav{
 }
 .img2_sb{
     background-image: url(../image/黑體/Intersection\ 27@3x.png);
-    width: 10.5vw;
-    height: 31.8vw;
+    width: 10.45vw;
+    height: 31.9vw;
     position: absolute;
-    top: 0.78vw;
-    left: 2.71vw;
+    top: 0.75vw;
+    left: 2.7vw;
     background-size: cover;
 }
 .textImg_sb{
@@ -337,6 +337,6 @@ footer{
     background-image: url(../image/logo_gif\(集\).gif);
 }
 .text_footer{
-    font-size: 25px;
+    font-size: 20px;
     margin-bottom: 20px;
 }
