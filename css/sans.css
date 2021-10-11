@@ -340,3 +340,22 @@ footer{
     font-size: 20px;
     margin-bottom: 20px;
 }
+
+@media(max-width:1920px){
+    .img1_sb{
+        background-image: url(../image/黑體/Subtraction\ 14@3x.png);
+        width: 14.9vw;
+        height: 32.7vw;
+        position: absolute;
+        background-size: cover;
+    }
+    .img2_sb{
+        background-image: url(../image/黑體/Intersection\ 27@3x.png);
+        width: 10.45vw;
+        height: 31.9vw;
+        position: absolute;
+        top: 0.8vw;
+        left: 2.745vw;
+        background-size: cover;
+    }
+}
